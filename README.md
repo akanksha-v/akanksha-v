@@ -4,8 +4,8 @@ I am a sophomore at IIT Roorkee, pursuing majors in Electrical Enginnering and a
 
 ## Find me around the web 🌎
 - Check out <a href="http://akanksha-verma.ml/">My website</a>
-- Reach me out at <a href="https://www.linkedin.com/in/akanksha-verma1311/">Linked In</a>
-
+- Reach me out at <a href="https://www.linkedin.com/in/akanksha-verma1311/">LinkedIn</a>
+- Read our blogs at <a href="https://medium.com/the-techie-trio">The Techie Trio</a> 
 
 <!--
 **akanksha-v/akanksha-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
