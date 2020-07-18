@@ -1,5 +1,5 @@
 # Hello, I am Akanksha 👋😄
-<img src="https://github.com/akanksha-v/akanksha-v/blob/master/my_image.png" alt="Image describing me">
+<img src="https://github.com/akanksha-v/akanksha-v/blob/master/my_img.png" alt="Image describing me">
 I am a sophomore at IIT Roorkee, pursuing majors in Electrical Enginnering and also, a passionate software developer👩🏾‍💻. I also work as a web developer at my campus group <a href="https://github.com/Ecell-IITR">E-Cell, IIT-R</a>.
 The inspiring thought of being the best version ✨ of me keeps me motivated ⚡ to explore the fields of my interests in this technological world..
 
