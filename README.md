@@ -17,4 +17,3 @@ The motto of my life is just to work hard ⚡ and be the best of yourself✨ !
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-v&hide=css,java,html&theme=tokyonight&line_height=27">
 </p>
 </details>
-![](https://komarev.com/ghpvc/?username=akanksha-v)
