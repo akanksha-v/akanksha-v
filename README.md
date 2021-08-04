@@ -4,7 +4,6 @@ I am a sophomore at IIT Roorkee, pursuing majors in Electrical Engineering and a
 The motto of my life is just to work hard ⚡ and be the best of yourself✨ !   
 
 ## Find me around the web 🌎
-- Check out <a href="http://akanksha-verma.ml/">My website</a>
 - Reach me out at <a href="https://www.linkedin.com/in/akanksha-verma1311/">LinkedIn</a>
 - Find me on <a href="https://twitter.com/Akanksh78499725">Twitter</a>
 - Read our blogs at <a href="https://medium.com/the-techie-trio">The Techie Trio</a> 
