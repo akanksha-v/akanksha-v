@@ -1,6 +1,6 @@
 # Hello, I am Akanksha 👋😄
 <img src="https://github.com/akanksha-v/akanksha-v/blob/master/img.png" alt="Image describing me">
-I am a junior at IIT Roorkee, pursuing majors in Electrical Engineering. I am Technical Head at <a href="https://github.com/Ecell-IITR">E-Cell, IIT-R</a>, and project manager at <a href="https://github.com/mdgspace">MDG Space</a>.<br/>
+I am a senior at IIT Roorkee, pursuing majors in Electrical Engineering. I contributed as Technical Head at <a href="https://github.com/Ecell-IITR">E-Cell, IIT-R</a>, and project manager at <a href="https://github.com/mdgspace">MDG Space</a>.<br/>
 The motto of my life is just to work hard ⚡ and be the best of yourself✨ !   
 
 ## Find me around the web 🌎
